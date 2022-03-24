@@ -1,4 +1,8 @@
-### Hi there 👋
+ Hi, I'm Devin! I'm a devoted and strong willed web developer with skills in PERN stack development. 👋
+ 📫 How to reach me: vogtdevinbusiness@gmail.com
+ 🤩 I'm interested in React.js and working with other front-end frame works!
+ ⚡ Fun facts: Gamer, football fanatic.
+ 
 
 <!--
 **devinvogt2/devinvogt2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
