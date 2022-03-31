@@ -12,7 +12,7 @@
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=devinvogt2&count_private=true&show_icons=true&theme=radical">
  </a>
- <img src="[![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinvogt2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
+<!--  <img src="[![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinvogt2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/> -->
  <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devinvogt2)](https://github.com/anuraghazra/github-readme-stats)
  
