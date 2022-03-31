@@ -1,4 +1,5 @@
  Hi, I'm Devin! I'm a devoted and strong willed web developer with skills in PERN stack development. 👋
+ <br>
  ![](https://komarev.com/ghpvc/?username=devinvogt2)
  <br>
  📫 How to reach me: vogtdevinbusiness@gmail.com
