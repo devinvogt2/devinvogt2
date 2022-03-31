@@ -1,5 +1,3 @@
- <img align="right" alt="Coding" width="100%" height="auto" src="https://i.pinimg.com/originals/43/9c/6d/439c6d4b1f75e30500a3f9ac8cd93ca9.gif">
- <br>
  Hi, I'm Devin! I'm a devoted and strong willed web developer with skills in PERN stack development. 👋
  <br>
  ![](https://komarev.com/ghpvc/?username=devinvogt2)
@@ -9,6 +7,8 @@
  🤩 I'm interested in React.js and working with other front-end frame works!
  <br>
  ⚡ Fun facts: Gamer, football fanatic.
+ <br>
+  <img align="right" alt="Coding" width="100%" height="auto" src="https://i.pinimg.com/originals/43/9c/6d/439c6d4b1f75e30500a3f9ac8cd93ca9.gif">
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinvogt2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  <br>
