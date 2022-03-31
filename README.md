@@ -1,6 +1,8 @@
  Hi, I'm Devin! I'm a devoted and strong willed web developer with skills in PERN stack development. 👋
  📫 How to reach me: vogtdevinbusiness@gmail.com
+ <br>
  🤩 I'm interested in React.js and working with other front-end frame works!
+ <br>
  ⚡ Fun facts: Gamer, football fanatic.
  
 
