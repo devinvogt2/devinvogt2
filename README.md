@@ -1,4 +1,4 @@
- <img alt="Coding" width="100%" height="auto" src="https://lh3.googleusercontent.com/hV8Fyn7pefBpetrgyXRknK1WPyN7mJ29N7oGp6a8DXh_lFeL0PSKDhOFfdjyorFpS8lQjQ=s152">
+ <img align="right" alt="Coding" width="400" src="https://pin.it/4n2Dh3N">
  <br>
  Hi, I'm Devin! I'm a devoted and strong willed web developer with skills in PERN stack development. 👋
  <br>
