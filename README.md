@@ -1,4 +1,4 @@
- [![MasterHead](https://lh3.googleusercontent.com/hV8Fyn7pefBpetrgyXRknK1WPyN7mJ29N7oGp6a8DXh_lFeL0PSKDhOFfdjyorFpS8lQjQ=s152)](https://github.com/devinvogt2)
+ [![MasterHead](style="width:400px;height:400px;"https://lh3.googleusercontent.com/hV8Fyn7pefBpetrgyXRknK1WPyN7mJ29N7oGp6a8DXh_lFeL0PSKDhOFfdjyorFpS8lQjQ=s152)](https://github.com/devinvogt2)
  <br>
  Hi, I'm Devin! I'm a devoted and strong willed web developer with skills in PERN stack development. 👋
  <br>
