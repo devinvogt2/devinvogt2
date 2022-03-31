@@ -12,9 +12,12 @@
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=devinvogt2&count_private=true&show_icons=true&theme=radical">
  </a>
-<!--  <img src="[![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinvogt2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/> -->
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devinvogt2">
+ </a>
+
  <br>
-[![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinvogt2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devinvogt2)](https://github.com/anuraghazra/github-readme-stats)
  
 
 <!--
