@@ -10,7 +10,7 @@
  <br>
   <img align="right" alt="Coding" width="100%" height="auto" margin="10px" src="https://i.pinimg.com/originals/43/9c/6d/439c6d4b1f75e30500a3f9ac8cd93ca9.gif">
  
- <img[![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinvogt2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)>
+ <img[![Devin's GitHub stats](https://github-readme-stats.vercel.app/api?username=devinvogt2&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)/>
  <br>
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devinvogt2)](https://github.com/anuraghazra/github-readme-stats)
  
